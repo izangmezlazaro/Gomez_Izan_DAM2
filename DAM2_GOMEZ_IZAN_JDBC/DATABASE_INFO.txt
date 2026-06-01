@@ -1,0 +1,3 @@
+ URL = gomez-lazaro-izan.c50noelfwx3l.us-east-1.rds.amazonaws.com
+ postgres
+ 12345678

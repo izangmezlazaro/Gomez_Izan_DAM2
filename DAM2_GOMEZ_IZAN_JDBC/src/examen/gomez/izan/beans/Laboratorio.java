@@ -9,7 +9,7 @@ public class Laboratorio {
     private String autorExamen;
 
     
-    public Laboratorio(int id, String nombre, String pais, String autorExamen) {
+    public Laboratorio() {
         this.id = id;
         this.nombre = nombre;
         this.pais = pais;
